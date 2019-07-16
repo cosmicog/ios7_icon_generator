@@ -2,7 +2,7 @@
 Create glossy / non glossy / circular ios7+ icons for android
 
 
-![Screenshot_20190714-113913_Nova Launcher](https://user-images.githubusercontent.com/9158844/61181446-5b7b6d00-a62f-11e9-955c-bfed26eca639.png)
+![Screenshot_20190716-174156_Nova Launcher.png](https://github.com/cosmicog/README.md/blob/master/Screenshot_20190716-174156_Nova%20Launcher.png)
 
 
 ## Usage
