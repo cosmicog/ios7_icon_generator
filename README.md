@@ -10,12 +10,10 @@ I maybe can't beat the apple designers, but I can improve theirs! To get rid of 
 
 ![Samsung-Galaxy-S8](https://user-images.githubusercontent.com/9158844/65209990-58bf4d00-daa2-11e9-97d3-240ea96f416d.jpeg)
 
-And I'll continue improving it by time. First plan is, when having free time, I'll try to find a way to generate icons like this concept design:
-
-[ios-13-dark-mode-concept](https://user-images.githubusercontent.com/9158844/65207861-da5fac80-da9b-11e9-8bf0-134be6723c60.jpg)
+And I'll continue improving it by time. First plan is, when having free time, I'll try to find a way to generate icons like this concept design: [ios-13-dark-mode-concept](https://user-images.githubusercontent.com/9158844/65207861-da5fac80-da9b-11e9-8bf0-134be6723c60.jpg)
 <br>
 <br>
-Here are some combinations I've tried on different times, I kept a screenshot before changing them:
+Here are some combinations I've tried them in different times, I kept a screenshot of each before changing them:
 ![Samsung-Galaxy-S8-SSs](https://user-images.githubusercontent.com/9158844/65209616-70e29c80-daa1-11e9-8574-a4d9c8b444f8.jpeg)
 
 ## Usage
