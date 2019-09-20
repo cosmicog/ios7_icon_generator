@@ -16,7 +16,9 @@ And I'll continue improving it by time. First plan is, when having free time, I'
 Here are some combinations I've tried them in different times, I kept a screenshot of each before changing them:
 ![Samsung-Galaxy-S8-SSs](https://user-images.githubusercontent.com/9158844/65209616-70e29c80-daa1-11e9-8574-a4d9c8b444f8.jpeg)
 
-## Usage
+## Usage :penguin:
+#### (Ubuntu)
+
  If you put perfect square icons that are bigger than `192x192` in `in` folder:
  <br>
  ![music_final](https://user-images.githubusercontent.com/9158844/65207736-57d6ed00-da9b-11e9-8dc5-b4facbfbe27b.png)
